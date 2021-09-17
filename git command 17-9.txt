@@ -1,0 +1,18 @@
+git comand 
+
+git init ---- to initilise the local repository in current folder
+git add filename or . for all
+git commit -m "lable ex. first commit"
+
+
+git comfiguration
+
+git congig --globle user.name "user name" ---to set config
+git remote add origin (https://github.com/vjadhao04/hello_world.git) ---we can put github repository location
+git branche -M branch_name----- to set a new branch (by default its main)
+
+to load data in remot reositiory we use
+git push -u origin master----- hear master is branch name wecan change it
+
+git status---- to check status
+git log ---- to check logs of what we had done
